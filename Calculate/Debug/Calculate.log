@@ -1,0 +1,11 @@
+﻿  MyForm.cpp
+C:\Users\zernm\source\repos\Calculate\MyForm.h(769,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\zernm\source\repos\Calculate\MyForm.h(779,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\zernm\source\repos\Calculate\MyForm.h(788,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\zernm\source\repos\Calculate\MyForm.h(797,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\zernm\source\repos\Calculate\MyForm.h(807,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\zernm\source\repos\Calculate\MyForm.h(816,22): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\zernm\source\repos\Calculate\MyForm.h(826,22): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\zernm\source\repos\Calculate\MyForm.h(835,36): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Calculate.vcxproj -> C:\Users\zernm\source\repos\Calculate\Debug\Calculate.exe

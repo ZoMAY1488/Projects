@@ -1,0 +1,5 @@
+C:\Users\zernm\source\repos\Calculate\Debug\Calculate.vcxprojAssemblyReference.cache
+C:\Users\zernm\source\repos\Calculate\Debug\Calculate.exe
+C:\Users\zernm\source\repos\Calculate\Debug\Calculate.pdb
+C:\Users\zernm\source\repos\Calculate\Debug\Calculate.MyForm.resources
+C:\Users\zernm\source\repos\Calculate\Debug\Calculate.vcxproj.GenerateResource.cache
